@@ -1,0 +1,77 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+
+# Executable files
+*.exe
+*.out
+*.app
+*.elf
+
+# Static and dynamic libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build directories
+/build/
+bin/
+debug/
+release/
+dist/
+temp/
+tmp/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userossc
+*.userprefs
+*.VC.db
+*.VC.opendb
+*.swp
+*~
+
+# Logs and reports
+*.log
+*.err
+*.txt
+*.dat
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup and archive files
+*.bak
+*.zip
+*.tar
+*.gz
+*.rar
+
+# CMake and Make
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Others
+*.map
+*.lprof
+*.gcda
+*.gcno
+*.gcov
